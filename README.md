@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Kanji Study App V2 (Flutter)<br>👯 I am looking to collaborate on anything in Machine Learning or Flutter app development<br>🌱 I'm currently learning flutter and firebase<br>⚡ I am learning Japanese in my free time<br>
+🔭 Kanji Study App V2 (Flutter)<br>🤝 I am looking to collaborate on anything in Machine Learning or Flutter app development<br>🌱 I'm currently learning flutter and firebase<br>⚡ I am learning Japanese in my free time<br>
 
 
 ## 🌐 Socials:
