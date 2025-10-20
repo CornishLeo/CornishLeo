@@ -35,6 +35,7 @@ Currently completing a year in industry at the MetOffice as a Data Engineer.
 ---
 
 ### Databases & Other
+![Azure](https://img.shields.io/badge/azure-%23039BE5.svg?style=for-the-badge&logo=azure) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![PyPi](https://img.shields.io/badge/PyPi-%23FF6F00.svg?style=for-the-badge&logo=PyPi&logoColor=white)
