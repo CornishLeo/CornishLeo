@@ -4,8 +4,6 @@ A current undergraduate computer science student with a keen interest in Artific
 
 Currently completing a year in industry at the MetOffice as a Data Engineer.
 
-➡ **[Check it out here](https://cuwalid.github.io)**  
-
 # Tech Stack:
 
 ### Artificial Intelligence & Data Science
