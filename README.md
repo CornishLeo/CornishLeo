@@ -2,8 +2,6 @@ A current undergraduate computer science student with a keen interest in Artific
 
 ➡ **[Check it my website to learn more about my projects](https://cornishleo.github.io)**  
 
-Currently completing a year in industry at the MetOffice as a Data Engineer.
-
 # Tech Stack:
 
 ### Artificial Intelligence & Data Science
